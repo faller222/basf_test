@@ -14,8 +14,8 @@ Thanks to a couple of smart additions, you can turn almost any website into a pr
 This means that you can build a PWA rather quickly, in regard to a native app that’s pretty difficult to develop. 
 Plus, you can offer all the features of native apps, like push notifications, offline support, and much more.
 
-PWAs are gaining popularity. Many big sites are PWAs, like [Starbucks](Starbucks.com), 
-[Pinterest](Pinterest.com), [Washingtonpost](Washingtonpost.com) and [Uber](Uber.com) 
+PWAs are gaining popularity. Many big sites are PWAs, like [Starbucks](https://Starbucks.com), 
+[Pinterest](https://Pinterest.com), [Washingtonpost](https://Washingtonpost.com) and [Uber](https://Uber.com) 
 are actually installable on your home screen and offer a comparable experience to their native apps.
 
 [Keep reading](https://yoast.com/what-is-a-progressive-web-app-pwa/)
